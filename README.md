@@ -2,6 +2,9 @@
 [pt-br] Mentoria de Carreira para DEV em java - iniciantes. <br>
 [en-us] Career Mentoring for DEV in java - beginners.
 
+<<<<<<< HEAD
+## Em desenvolvimento
+=======
 # VERGIONAMENTO PADRÃO BRANCHS 
 | BRANCHS | COMMITS |
 | --- | --- |
@@ -27,3 +30,4 @@
 
 - [Cursos de introdução e iniciação ao Jenkins](https://www.udemy.com/courses/search/?price=price-free&q=jenkins&sort=relevance&src=ukw)
 
+>>>>>>> 34326e2b473ec5af7082754dbee63568668d797f
